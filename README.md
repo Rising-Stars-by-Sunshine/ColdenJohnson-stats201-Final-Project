@@ -36,21 +36,17 @@ Retreived using snscrape library. Documentation [available](https://github.com/J
 
 ## Spotlight
 - Figures
-![WordCloud TrumpData](https://user-images.githubusercontent.com/118926209/220094960-cb03075d-5852-4249-a3c5-43ec2c0d1f7e.png)
+![Sentiment_PieChart](https://user-images.githubusercontent.com/118926209/223123994-7ef301c9-92d5-48d8-9b26-760f778fef38.png)
 
-Figure 1: wordcloud of words scraped from cleaned twitter raw content files.
+![Tweet_Volumes_By_Hour](https://user-images.githubusercontent.com/118926209/223124393-650d8c6e-054a-45b0-9b7b-5c4ca911bbd8.png)
 
-![Tweet Analysis PieChart](https://user-images.githubusercontent.com/118926209/220094833-0b98c111-4fe3-42d8-a42a-695ff5b78eaf.png)
+![Tweet_Volume](https://user-images.githubusercontent.com/118926209/223124431-c8fc638c-ebfe-41bb-984e-b695643b9865.png)
 
-Figure 2: Tweet sentiment PieChart (before breaking into test and prediction datasets).
+![Average_Sentiment_By_Day](https://user-images.githubusercontent.com/118926209/223124480-e5298f4f-d8f5-4971-af3b-48f35d75a703.png)
 
-![ConfsuionMatrixFig 1](https://user-images.githubusercontent.com/118926209/220094985-5ef4d451-9386-456d-8c83-15083126fe66.png)
+![Tweet_Sentiment_LineGraph](https://user-images.githubusercontent.com/118926209/223124584-fd1c531e-c3f3-4b82-a583-94f4ce1f0cab.png)
 
-Figure 3: Confusion matrix for random forest classifier model. Note that this model is only slightly better than random chance, at 37% correct classifications.
-
-![ConfusionMatrixFig 2](https://user-images.githubusercontent.com/118926209/220095008-b9ffe869-d3a4-438b-9a56-5127ed7a5656.png)
-
-Figure 4: Confusion matrix for decision tree classifier model.
+![WordCloud](https://user-images.githubusercontent.com/118926209/223124608-0b95b5ac-16bd-4679-be0c-d191d05df227.png)
 
 ## References
 
