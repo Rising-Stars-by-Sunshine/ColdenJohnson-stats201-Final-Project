@@ -84,6 +84,44 @@ Retreived using snscrape library. Documentation [available](https://github.com/J
 
 ## References
 ### Articles
+ Abdullah, Malak, and Mirsad Hadzikadic. “Sentiment Analysis of Twitter Data: Emotions Revealed Regarding Donald Trump during the 2015-16 Primary Debates.” In 2017 IEEE 29th International Conference on Tools with Artificial Intelligence (ICTAI), 760–64, 2017. https://doi.org/10.1109/ICTAI.2017.00120.
 
+  Andersen, Torben G., Tim Bollerslev, Francis X. Diebold, and Paul Labys. “Modeling and Forecasting Realized Volatility.” Econometrica 71, no. 2 (March 2003): 579–625. https://doi.org/10.1111/1468-0262.00418.
+  
+  Bollen, Johan, Huina Mao, and Xiaojun Zeng. “Twitter Mood Predicts the Stock Market.” Journal of Computational Science 2, no. 1 (March 1, 2011): 1–8. https://doi.org/10.1016/j.jocs.2010.12.007.
+  
+  Elbagir, Shihab, and Jing Yang. “Twitter Sentiment Analysis Using Natural Language Toolkit and VADER Sentiment.” Hong Kong, 2019.
+  
+  Giachanou, Anastasia, and Fabio Crestani. “Like It or Not: A Survey of Twitter Sentiment Analysis Methods.” ACM Computing Surveys 49, no. 2 (June 30, 2016): 28:1-28:41. https://doi.org/10.1145/2938640.
+  
+  Hong, Liangjie, and Brian D. Davison. “Empirical Study of Topic Modeling in Twitter.” In Proceedings of the First Workshop on Social Media Analytics, 80–88. SOMA ’10. New York, NY, USA: Association for Computing Machinery, 2010. https://doi.org/10.1145/1964858.1964870.
+
+  Hu, Yuheng, Ajita John, Fei Wang, and Subbarao Kambhampati. “ET-LDA: Joint Topic Modeling for Aligning Events and Their Twitter Feedback.” Proceedings of the AAAI Conference on Artificial Intelligence 26, no. 1 (2012): 59–65. https://doi.org/10.1609/aaai.v26i1.8106.
+  
+  Jianqiang, Zhao, and Gui Xiaolin. “Comparison Research on Text Pre-Processing Methods on Twitter Sentiment Analysis.” IEEE Access 5 (2017): 2870–79. https://doi.org/10.1109/ACCESS.2017.2672677.
+  
+  “Journal of Medical Internet Research - Characterizing Twitter Discussions About HPV Vaccines Using Topic Modeling and Community Detection.” Accessed March 9, 2023. https://www.jmir.org/2016/8/e232/.
+  
+  Kayesh, Humayun, Md Saiful Islam, and Junhu Wang. “On Event Causality Detection in Tweets.” arXiv, January 11, 2019. https://doi.org/10.48550/arXiv.1901.03526.
+  
+  Liu, Yinhan, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, and Veselin Stoyanov. “RoBERTa: A Robustly Optimized BERT Pretraining Approach.” arXiv, July 26, 2019. https://doi.org/10.48550/arXiv.1907.11692.
+  
+  Poth, Clifton, Jonas Pfeiffer, Andreas Rücklé, and Iryna Gurevych. “What to Pre-Train on? Efficient Intermediate Task Selection.” arXiv, September 10, 2021. http://arxiv.org/abs/2104.08247.
+  
+  Ramteke, Jyoti, Samarth Shah, Darshan Godhia, and Aadil Shaikh. “Election Result Prediction Using Twitter Sentiment Analysis.” In 2016 International Conference on Inventive Computation Technologies (ICICT), 1:1–5, 2016. https://doi.org/10.1109/INVENTIVE.2016.7823280.
+  
+  Resnik, Philip, William Armstrong, Leonardo Claudino, Thang Nguyen, Viet-An Nguyen, and Jordan Boyd-Graber. “Beyond LDA: Exploring Supervised Topic Modeling for Depression-Related Language in Twitter.” In Proceedings of the 2nd Workshop on Computational Linguistics and Clinical Psychology: From Linguistic Signal to Clinical Reality, 99–107. Denver, Colorado: Association for Computational Linguistics, 2015. https://doi.org/10.3115/v1/W15-1212.
+
+  Sahu, Kalyan, Yu Bai, and Yoonsuk Choi. “Supervised Sentiment Analysis of Twitter Handle of President Trump with Data Visualization Technique.” In 2020 10th Annual Computing and Communication Workshop and Conference (CCWC), 0640–46, 2020. https://doi.org/10.1109/CCWC47524.2020.9031237.
+  
+  Schoen, Harald, Daniel Gayo-Avello, Panagiotis Takis Metaxas, Eni Mustafaraj, Markus Strohmaier, and Peter Gloor. “The Power of Prediction with Social Media.” Edited by Daniel Gayo-Avello, Panagiotis Takis Metax. Internet Research 23, no. 5 (October 14, 2013): 528–43. https://doi.org/10.1108/IntR-06-2013-0115.
+  
+  Schöne, Jonas Paul, Brian Parkinson, and Amit Goldenberg. “Negativity Spreads More than Positivity on Twitter After Both Positive and Negative Political Situations.” Affective Science 2, no. 4 (December 1, 2021): 379–90. https://doi.org/10.1007/s42761-021-00057-7.
+  
+  Severyn, Aliaksei, and Alessandro Moschitti. “Twitter Sentiment Analysis with Deep Convolutional Neural Networks.” In Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval, 959–62. SIGIR ’15. New York, NY, USA: Association for Computing Machinery, 2015. https://doi.org/10.1145/2766462.2767830.
+  
+  Somula, Ramasubbareddy, K. Dinesh Kumar, S. Aravindharamanan, and K. Govinda. “Twitter Sentiment Analysis Based on US Presidential Election 2016.” In Smart Intelligent Computing and Applications, edited by Suresh Chandra Satapathy, Vikrant Bhateja, J. R. Mohanty, and Siba K. Udgata, 363–73. Smart Innovation, Systems and Technologies. Singapore: Springer, 2020. https://doi.org/10.1007/978-981-13-9282-5_34.
+
+  
 
 
