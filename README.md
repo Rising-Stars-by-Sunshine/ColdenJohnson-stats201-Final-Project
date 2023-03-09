@@ -10,7 +10,7 @@
 ## Table Of Contents
 | Contents | Description |
 |--------|--------|
-| [Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/edit/main/README.md#Data) | View Raw and Processed Data Files |
+| [Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#Data) | View Raw and Processed Data Files |
 | [Code](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/tree/main/code) | View Jupyter Notebook Code Files |
 | [Spotlight](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/tree/main/spotlight) | View Generated Spotlight Figures |
 | [References]() | View Refereces CSV File |
