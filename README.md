@@ -87,7 +87,7 @@ Retreived using snscrape library. Documentation [available](https://github.com/J
 ![SeniorPhoto_JohnsonColden - Copy](https://user-images.githubusercontent.com/118926209/224054174-bac3c0b5-1883-4863-b1fd-09365b2f8574.jpg)
 
 
-Colden Johnson is a freshman at Duke Kunshan University. He is interested in majoring either in political economy or data science, and is interested in studying at the intersection of these two fields. He has experience working with a variety of programming languages, including R, Python, and Java.
+Colden Johnson is a freshman at Duke Kunshan University. He is majoring either in political economy or data science, and is interested in studying at the intersection of these two fields. He has experience working with a variety of programming languages, including R, Python, and Java.
 
 ## Final Reflections
 
