@@ -84,12 +84,6 @@ Retreived using snscrape library. Documentation [available](https://github.com/J
 
 ## References
 ### Articles
-- Article Source Title and URL
 
-| Author | Title | Year |
-|--------|-------|------|
-| Bollen, Johan; Mao, Huina; Zeng, Xiaojun	 | Twitter mood predicts the stock market	 | 2011 |
-| Ahmed, Ali Adnan Ahmed	 | Sentiment analysis for cryptocurrency prices prediction	 | 2020 |
-| Salač, Adam	 | Forecasting of the cryptocurrency market through social media sentiment analysis	 | 2019 |
 
 
