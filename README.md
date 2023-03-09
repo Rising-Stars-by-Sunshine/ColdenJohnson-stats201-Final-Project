@@ -1,10 +1,5 @@
 # Stats 201 Final Project -- Sentiment Analysis and Topic Modeling Using Machine Learning
 
-## Jupyter Notebook Files
-[Jupyter Notebook Process Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Colden/blob/main/code/Colden_Johnson_Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)
-
-[Jupyter Notebook Analysis](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Colden/blob/main/code/Colden_Johnson_Data_Machine_Learning_for_Predicting_Tweet_Reach.ipynb)
-
 ## Project information
 - **Author**: Colden Johnson, Political Economy and Data Science, Class of 2026, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
@@ -12,30 +7,34 @@
 - **Acknowledgments**: I am very greatful to professor Luyao Zhang for her helpful instruction in class, as well as to Michael Cornell for his helpful comments and suggestions during the peer review process.
 - **Project Summary**: As one of the largest social media platforms, Twitter can be used as one barometer of public sentiment. In this project, I explore the impact of Trump's actions on Twitter discourse through sentiment analysis and topic modeling using machine learning. Twitter data containing the keyword 'Trump' was queried between the years of 2020 and 2022. The data was preprocessed before applying supervised machine learning sentiment analysis, including the ROBERTA sentiment analysis AI. All Tweets were classified into one of three categories, 'positive', 'negative', and 'neutral'. Results were visualized as timeseries data by grouping average tweet sentiment by day and hour. Linear regression was also used to identify 2 major events of interest during this time period (fig. 5) Causal inference machine learning techniques were used to find a strong causal effect from specified events (including Trump's actions during the capitol riots on Jan. 6 and Trump's Jan. 20 Concession Speech). However, due to the complex nature of events and limited dimensionality of the data, this machine learning technique has limited effectiveness in the face of confounding variables. In general, Twitter sentiment reached its lowest during the capitol riots, and thereafter climbed to its absolute maximum when Trump conceded defeat in the election. I also performed unsupervised machine learning techniques including topic modeling, finding common topic clusters Tweets focused on during the studied timeframe. Common topics of discourse can be described in 3 major categories: discussion about implications of the election, debate over vote validity, and Tweets referencing the 'wants' and 'needs' of the American people. This research helps contribute to understanding how Donald Trump's actions were perceived by the American public. It is also interesting that Trump's Twitter ban had little impact on Tweet volume, topic, or sentiment, and was largely overwhelemed by other topics. This carries implications when attempting to understand the limited impact of social media bans on public discourse. In the future, the research scope can be expanded to include a variety of public figures, to create a generalizable predictive model for how Twitter discourse takes shape.
 
-
-## Quick Links
-| Contents | Data Type |
-|--------|--------|
-| [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Colden/blob/main/data/Queried_Data/scraped_data_trump_2018.csv)|CSV File|
-| [Code Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Colden/blob/main/code/Colden_Johnson_Data_Machine_Learning_for_Predicting_Tweet_Reach.ipynb) |Jupyter Notebook|
-| [Code Process Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Colden/blob/main/code/Colden_Johnson_Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb) |Jupyter Notebook|
-| [Spotlight Figures](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Colden/tree/main/spotlight) |Saved Figures (PNG)|
-
-
+## Table Of Contents
+| Contents |
+|--------|
+| [Code Analyze Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/code/Final_Project_TwitterData%20(1).ipynb) |
+| [Code Process Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/code/Final_Project_TwitterData%20(1).ipynb) |
 
 ## Data
-[Scraped Data 2018](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Colden/blob/main/data/Queried_Data/scraped_data_trump_2018.csv)
+| Contents | Data Type |
+|--------|--------|
+| [Queried Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/data/Queried_Data/Trump_Twitter_CausalityTimePeriod.csv)|CSV File|
+| [Clipped Data (Preliminary Analysis)](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/data/Queried_Data/Final_Project_ExpandedCausalityTimePeriod.csv) |CSV File|
+| [Final Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/data/Queried_Data/Final_Project_ExpandedCausalityTimePeriod.csv) |CSV File|
 
 Retreived using snscrape library. Documentation [available](https://github.com/JustAnotherArchivist/snscrape)
 
 ## Code
-- Process Data
-[Jupyter Notebook Process Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Colden/blob/main/code/Colden_Johnson_Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)
+- Final Project
+[Jupyter Notebook Process Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/code/Final_Project_TwitterData%20(1).ipynb)
+[Jupyter Notebook Analyze Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/code/Final_Project_TwitterData%20(1).ipynb)
 
-- Analyze Data
-[Jupyter Notebook Analysis](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Colden/blob/main/code/Colden_Johnson_Data_Machine_Learning_for_Predicting_Tweet_Reach.ipynb)
+- Prior Exploratory Work: Problem Sets 1 and 2
+[Jupyter Notebook Process Data PS2](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Colden/blob/main/code/Colden_Johnson_Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)
+[Jupyter Notebook Analysis PS2](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Colden/blob/main/code/Colden_Johnson_Data_Machine_Learning_for_Predicting_Tweet_Reach.ipynb)
+[Jupyter Notebook PS1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson/blob/main/code/Problem%20Set%201.ipynb)
 
 ## Spotlight
+- Poster
+
 - Figures
 ![Sentiment_PieChart](https://user-images.githubusercontent.com/118926209/223123994-7ef301c9-92d5-48d8-9b26-760f778fef38.png)
 
@@ -48,6 +47,9 @@ Retreived using snscrape library. Documentation [available](https://github.com/J
 ![Tweet_Sentiment_LineGraph](https://user-images.githubusercontent.com/118926209/223124584-fd1c531e-c3f3-4b82-a583-94f4ce1f0cab.png)
 
 ![WordCloud](https://user-images.githubusercontent.com/118926209/223124608-0b95b5ac-16bd-4679-be0c-d191d05df227.png)
+
+## More About the Author
+
 
 ## References
 
