@@ -8,12 +8,12 @@
 - **Project Summary**: As one of the largest social media platforms, Twitter can be used as one barometer of public sentiment. In this project, I explore the impact of Trump's actions on Twitter discourse through sentiment analysis and topic modeling using machine learning. Twitter data containing the keyword 'Trump' was queried between the years of 2020 and 2022. The data was preprocessed before applying supervised machine learning sentiment analysis, including the ROBERTA sentiment analysis AI. All Tweets were classified into one of three categories, 'positive', 'negative', and 'neutral'. Results were visualized as timeseries data by grouping average tweet sentiment by day and hour. Linear regression was also used to identify 2 major events of interest during this time period (fig. 5) Causal inference machine learning techniques were used to find a strong causal effect from specified events (including Trump's actions during the capitol riots on Jan. 6 and Trump's Jan. 20 Concession Speech). However, due to the complex nature of events and limited dimensionality of the data, this machine learning technique has limited effectiveness in the face of confounding variables. In general, Twitter sentiment reached its lowest during the capitol riots, and thereafter climbed to its absolute maximum when Trump conceded defeat in the election. I also performed unsupervised machine learning techniques including topic modeling, finding common topic clusters Tweets focused on during the studied timeframe. Common topics of discourse can be described in 3 major categories: discussion about implications of the election, debate over vote validity, and Tweets referencing the 'wants' and 'needs' of the American people. This research helps contribute to understanding how Donald Trump's actions were perceived by the American public. It is also interesting that Trump's Twitter ban had little impact on Tweet volume, topic, or sentiment, and was largely overwhelemed by other topics. This carries implications when attempting to understand the limited impact of social media bans on public discourse. In the future, the research scope can be expanded to include a variety of public figures, to create a generalizable predictive model for how Twitter discourse takes shape.
 
 ## Table Of Contents
-| Contents |
-|--------|
-| [Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/tree/main/data) |
-| [Code](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/tree/main/code) |
-| [Spotlight](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/tree/main/spotlight) |
-| [References]() |
+| Contents | Description |
+|--------|--------|
+| [Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/tree/main/data) | View Raw and Processed Data Files |
+| [Code](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/tree/main/code) | View Jupyter Notebook Code Files |
+| [Spotlight](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/tree/main/spotlight) | View Generated Spotlight Figures |
+| [References]() | View Refereces CSV File |
 
 
 
