@@ -19,6 +19,7 @@
 
 
 ## Data
+### Meta Data Information
 | Contents | Data Type |
 |--------|--------|
 | [Queried Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/data/Queried_Data/Trump_Twitter_CausalityTimePeriod.csv)|CSV File|
@@ -26,6 +27,17 @@
 | [Final Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/data/Queried_Data/Final_Project_ExpandedCausalityTimePeriod.csv) |CSV File|
 
 Retreived using snscrape library. Documentation [available](https://github.com/JustAnotherArchivist/snscrape)
+### Data Dictionary
+
+| File Name  | Variable Name | Description | Unit | Type |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [literature.csv]()  | Tweet_number  | Unique Identifier Assigned to each Tweet during scraping (using for loop) | None | int |
+|   | rawContent  | Tweet Raw Content Text Abstract | None | str |
+|   | timestamp  | Datetime object of tweet timestamp | unit time  | DATETIME |
+|   | ID  | Twitter generated unique identifier | None  | int |
+|   | replyCount  | Total replies to Tweet | # of occurences | int |
+|   | retweetCount  | Total retweets of Tweet | # of occurences  | int |
+|   | likeCount  | Total likes of Tweet | # of occurences  | int |
 
 ## Code
 - Final Project
