@@ -39,20 +39,24 @@ Retreived using snscrape library. Documentation [available](https://github.com/J
 |   | likeCount  | Total likes of Tweet | # of occurences  | int |
 
 ## Code
-- Final Project
+### Final Project
 [Jupyter Notebook Process Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/code/Final_Project_TwitterData%20(1).ipynb)
+
 [Jupyter Notebook Analyze Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/code/Final_Project_TwitterData%20(1).ipynb)
 
-- Prior Exploratory Work: Problem Sets 1 and 2
+### Prior Exploratory Work: Problem Sets 1 and 2
+
 [Jupyter Notebook Process Data PS2](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Colden/blob/main/code/Colden_Johnson_Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)
+
 [Jupyter Notebook Analysis PS2](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Colden/blob/main/code/Colden_Johnson_Data_Machine_Learning_for_Predicting_Tweet_Reach.ipynb)
+
 [Jupyter Notebook PS1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson/blob/main/code/Problem%20Set%201.ipynb)
 
 ## Spotlight
-- Poster
+### Poster
 ![Stats201_FinalPoster](https://user-images.githubusercontent.com/118926209/224045116-262038cd-102e-4c40-93b0-50fe786f1ef6.png)
 
-- Figures
+### Figures
 
 ![Sentiment_PieChart](https://user-images.githubusercontent.com/118926209/223123994-7ef301c9-92d5-48d8-9b26-760f778fef38.png)
 
