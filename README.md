@@ -27,11 +27,10 @@
 | [Final Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/data/Queried_Data/Final_Project_ExpandedCausalityTimePeriod.csv) |CSV File|
 
 Retreived using snscrape library. Documentation [available](https://github.com/JustAnotherArchivist/snscrape)
-### Data Dictionary
-
+### Data Overview
 | File Name  | Variable Name | Description | Unit | Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [literature.csv]()  | Tweet_number  | Unique Identifier Assigned to each Tweet during scraping (using for loop) | None | int |
+| [Trump_Twitter_CausalityTimePeriod.csv](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/data/Queried_Data/clipped_trump_data_2018.csv)  | Tweet_number  | Unique Identifier Assigned to each Tweet during scraping (using for loop) | None | int |
 |   | rawContent  | Tweet Raw Content Text Abstract | None | str |
 |   | timestamp  | Datetime object of tweet timestamp | unit time  | DATETIME |
 |   | ID  | Twitter generated unique identifier | None  | int |
@@ -51,17 +50,27 @@ Retreived using snscrape library. Documentation [available](https://github.com/J
 
 ## Spotlight
 - Poster
-
 - Figures
+
 ![Sentiment_PieChart](https://user-images.githubusercontent.com/118926209/223123994-7ef301c9-92d5-48d8-9b26-760f778fef38.png)
+
+**Fig. 1**: Piechart showing sentiment distribution over the entire queried timespan. Tweet sentiment is overwhelmingly negative, with less than 6% being labelled as positive. This is not necessarily surprising, as negativity has been shown to be more common on Twitter than positive Tweets. However, negative Tweets are on average only about 15% more prevalent than positive (Goldenberg et. al). Therefore, this result shows a substantially more negative public opinion than would usually be expected on sentiment analysis of this type.
 
 ![Tweet_Volumes_By_Hour](https://user-images.githubusercontent.com/118926209/223124393-650d8c6e-054a-45b0-9b7b-5c4ca911bbd8.png)
 
+**Fig. 2**: Tweet volume of reply counts and retweet accounts, grouped by day. These two metrics closely track each other on both high and low days. The green vertical line indicates the date of the capitol riots, where there was a spike in activity. This activity remains elevated for the next several days, and another retweet spike can be seen on the day Trump's account was banned.
+
 ![Tweet_Volume](https://user-images.githubusercontent.com/118926209/223124431-c8fc638c-ebfe-41bb-984e-b695643b9865.png)
+
+**Fig. 3**: Tweet volume over time. Tweet volume spikes during the capitol riots (Jan. 6) and remains elevated for several days.
 
 ![Average_Sentiment_By_Day](https://user-images.githubusercontent.com/118926209/223124480-e5298f4f-d8f5-4971-af3b-48f35d75a703.png)
 
+**Fig. 4**: Average tweet sentiment over time visualized in a stacked line chart. The lowest sustained negative opinion (indicating a substantial trend) can be seen on the 3 day period surrounding Jan. 6, and the all-time high public opinion appears on Jan. 20 (Trump's concession speech).
+
 ![Tweet_Sentiment_LineGraph](https://user-images.githubusercontent.com/118926209/223124584-fd1c531e-c3f3-4b82-a583-94f4ce1f0cab.png)
+
+**Fig. 5**: Graphed visualization of the average Tweet sentiment over time, on a scale from -1.0 to + 1.0. The first two vertical lines (local min and local max) mark the passage of a covid relief package through congress. The sentiment around these two lines correctly tracks the predicted sentiment as recorded by polls, giving validity to the metric as a general barometer of public opinion. The green line (Jan. 6) indicates the capitol riots, and marks the 3-day lowest sustained negative public opinion during the queried timespan. The yellow line (Jan. 20) marks Trump's concession speech, in which he committed to peacefully transferring power, and is the absolute maximimum for public sentiment.
 
 ![WordCloud](https://user-images.githubusercontent.com/118926209/223124608-0b95b5ac-16bd-4679-be0c-d191d05df227.png)
 
