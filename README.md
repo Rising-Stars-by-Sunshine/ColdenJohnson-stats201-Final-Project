@@ -20,7 +20,7 @@
 
 ## Data
 ### Meta Data Information
-| Contents | Data Type |
+| Contents | File Type |
 |--------|--------|
 | [Queried Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/data/Queried_Data/Trump_Twitter_CausalityTimePeriod.csv)|CSV File|
 | [Clipped Data (Preliminary Analysis)](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/data/Queried_Data/Final_Project_ExpandedCausalityTimePeriod.csv) |CSV File|
