@@ -81,14 +81,9 @@ Retreived using snscrape library. Documentation [available](https://github.com/J
 
 
 ## References
-
-### Data Source
-- Data Source Title and URL
-### Code Source
-- Code Source Title and URL
 ### Articles
 - Article Source Title and URL
-### Literature
+- 
 | Author | Title | Year |
 |--------|-------|------|
 | Bollen, Johan; Mao, Huina; Zeng, Xiaojun	 | Twitter mood predicts the stock market	 | 2011 |
