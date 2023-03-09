@@ -72,6 +72,7 @@ Retreived using snscrape library. Documentation [available](https://github.com/J
 
 **Fig. 5**: Graphed visualization of the average Tweet sentiment over time, on a scale from -1.0 to + 1.0. The first two vertical lines (local min and local max) mark the passage of a covid relief package through congress. The sentiment around these two lines correctly tracks the predicted sentiment as recorded by polls, giving validity to the metric as a general barometer of public opinion. The green line (Jan. 6) indicates the capitol riots, and marks the 3-day lowest sustained negative public opinion during the queried timespan. The yellow line (Jan. 20) marks Trump's concession speech, in which he committed to peacefully transferring power, and is the absolute maximimum for public sentiment.
 
+
 ![WordCloud](https://user-images.githubusercontent.com/118926209/223124608-0b95b5ac-16bd-4679-be0c-d191d05df227.png)
 
 **Fig. 6**: Word cloud of all scraped text data over the timespan, after removing stopwords.
