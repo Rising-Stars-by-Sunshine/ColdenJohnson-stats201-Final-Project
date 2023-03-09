@@ -74,6 +74,8 @@ Retreived using snscrape library. Documentation [available](https://github.com/J
 
 ![WordCloud](https://user-images.githubusercontent.com/118926209/223124608-0b95b5ac-16bd-4679-be0c-d191d05df227.png)
 
+**Fig. 6**: Word cloud of all scraped text data over the timespan, after removing stopwords.
+
 ## More About the Author
 
 
