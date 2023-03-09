@@ -1,5 +1,5 @@
 # Stats 201 Final Project -- Sentiment Analysis and Topic Modeling Using Machine Learning
-
+Visit my website here: https://rising-stars-by-sunshine.github.io/ColdenJohnson-stats201-Final-Project/
 ## Project information
 - **Author**: Colden Johnson, Political Economy and Data Science, Class of 2026, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
@@ -14,7 +14,7 @@
 | [Code](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#Code) | View Jupyter Notebook Code Files |
 | [Spotlight](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#Spotlight) | View Generated Spotlight Figures |
 | [About the Author](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#more-about-the-author) | Read Author Bio and Project Background |
-| [References](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#References) | View Refereces CSV File |
+| [References](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#References) | View References CSV File |
 
 
 
