@@ -30,7 +30,7 @@ Retreived using snscrape library. Documentation [available](https://github.com/J
 ### Data Dictionary
 
 | File Name  | Variable Name | Description | Unit | Type |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | [literature.csv]()  | Tweet_number  | Unique Identifier Assigned to each Tweet during scraping (using for loop) | None | int |
 |   | rawContent  | Tweet Raw Content Text Abstract | None | str |
 |   | timestamp  | Datetime object of tweet timestamp | unit time  | DATETIME |
