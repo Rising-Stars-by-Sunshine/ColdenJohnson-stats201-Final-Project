@@ -10,8 +10,12 @@
 ## Table Of Contents
 | Contents |
 |--------|
-| [Code Analyze Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/code/Final_Project_TwitterData%20(1).ipynb) |
-| [Code Process Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/code/Final_Project_TwitterData%20(1).ipynb) |
+| [Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/tree/main/data) |
+| [Code](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/tree/main/code) |
+| [Spotlight](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/tree/main/spotlight) |
+| [References]() |
+
+
 
 ## Data
 | Contents | Data Type |
