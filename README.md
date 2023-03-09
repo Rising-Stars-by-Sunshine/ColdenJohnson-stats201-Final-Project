@@ -80,7 +80,18 @@ Retreived using snscrape library. Documentation [available](https://github.com/J
 **Fig. 6**: Word cloud of all scraped text data over the timespan, after removing stopwords.
 
 ## More About the Author
+![SeniorPhoto_JohnsonColden - Copy](https://user-images.githubusercontent.com/118926209/224054174-bac3c0b5-1883-4863-b1fd-09365b2f8574.jpg)
 
+
+Colden Johnson is a freshman at Duke Kunshan University. He is interested in majoring either in political economy or data science, and is interested in studying at the intersection of these two fields. He has experience working with a variety of programming languages, including R, Python, and Java.
+
+## Final Reflections
+
+This course has helped me understand the broad utility of machine learning, and helped train me to use a wide variety of techniques as they apply to each problem type. Prior to taking this course, I had a basic understanding of machine learning concepts and coding applications. However, this course has broadened my knowledge and skills in the field significantly. I specifically learned about machine learning applications in blockchain and Twitter, and completing my final project offered many problem solving opportunities. For my professional growth, I am hopeful that this class will help me continue conducting meaningful and practically interesting research. Broadly applicable skills, such as proficiency using Google Collab and Github, will also be valuable in my future career. In the future, I want to conduct research in the field of 'computational humanities', and continue employing the same text-based machine learning techniques (sentiment analysis and topic clustering) as I used in my final project. The application of machine learning techniques to the humanities is not only pioneering, but also a valuable research contribution which I would like to bring greater attention to in the future.
+
+## A Special Note on Peer Evaluations
+
+Thank you again to Michael Cornell for the great discussions we had during the peer evaluation process. I would specifically like to thank him for several of the suggestions he gave on my final analysis. First, I have introduced a more complete causal analysis surrounding the Jan. 6 capitol riots, with greater validity, thanks to his comments. I have also been able to run my analysis on much larger data thanks to his suggestion to use a virtual machine. Finally, I have reworked many of my figures and graphs to be more simplistic and coherent to a general audience.
 
 ## References
 ### Articles
@@ -123,5 +134,3 @@ Retreived using snscrape library. Documentation [available](https://github.com/J
   Somula, Ramasubbareddy, K. Dinesh Kumar, S. Aravindharamanan, and K. Govinda. “Twitter Sentiment Analysis Based on US Presidential Election 2016.” In Smart Intelligent Computing and Applications, edited by Suresh Chandra Satapathy, Vikrant Bhateja, J. R. Mohanty, and Siba K. Udgata, 363–73. Smart Innovation, Systems and Technologies. Singapore: Springer, 2020. https://doi.org/10.1007/978-981-13-9282-5_34.
 
   
-
-
