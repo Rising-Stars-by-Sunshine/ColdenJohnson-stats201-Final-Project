@@ -9,13 +9,11 @@ Visit my website here: https://rising-stars-by-sunshine.github.io/ColdenJohnson-
 
 ## Table Of Contents
 
-| Contents | Description |
-|--------|--------|
-| [Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#Data) | View Raw and Processed Data Files |
-| [Code](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#Code) | View Jupyter Notebook Code Files |
-| [Spotlight](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#Spotlight) | View Generated Spotlight Figures |
-| [About the Author](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#more-about-the-author) | Read Author Bio and Project Background |
-| [References](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#References) | View References CSV File |
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
