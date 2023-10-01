@@ -1,5 +1,7 @@
 # Analyzing Jan. 6 Capitol Attacks using Machine Learning: Sentiment Analysis and Topic Clustering
-Visit my website here: https://rising-stars-by-sunshine.github.io/ColdenJohnson-stats201-Final-Project/
+
+**Visit my website here: https://rising-stars-by-sunshine.github.io/ColdenJohnson-stats201-Final-Project/**
+
 ## Project information
 - **Author**: Colden Johnson, Political Economy and Data Science, Class of 2026, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
